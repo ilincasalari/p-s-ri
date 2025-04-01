@@ -1,0 +1,41 @@
+body{
+    background-image: linear-gradient(#C1E4B8,#D9F2CE);
+}
+
+
+h1{
+    padding-top: 4%;
+    text-align: center;
+    font-family: "Kode Mono", monospace;
+  font-optical-sizing: auto;
+  color:#427124
+  ;
+ 
+}
+.img-r{
+    float: none;
+    height: 150px;
+    border-radius: 50%;
+    margin: 6px 5px 2px 110px;
+}
+.copil{
+    overflow: auto;
+    float: left;
+    width: 360px;
+    height: 410px;
+   background-image: linear-gradient( rgb(231, 231, 248),rgb(205, 205, 253));
+    border: 2px solid #2c5215;
+    border-radius: 10px;
+    padding: 2%;
+    margin: 2%;
+    margin-left: 20px;
+}
+#tata{
+    overflow: auto;
+padding-left: 10%;
+
+}
+h4{
+    text-align: center;
+  
+}
